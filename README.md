@@ -18,8 +18,9 @@ If you have any suggestions or opportunities, feel free to reach out (email: ame
 - SQL
 
 ## 🌱 My Projects
-- [Suicide Prevention Research Team](link-to-repo)
-- [University of Texas Data Science and Analytics Program](link-to-repo)
+- [Suicide Prevention Research Team](https://github.com/ameliatodd2002/Suicide_Prevention_Research_Team)
+- [University of Texas Data Science and Analytics Program](https://github.com/ameliatodd2002/University_of_Texas_Data_Science_and_Businees_Analaytics_Program)
+- [Harvard Introduction to Computer Science with Python (CSCI S-7)](https://github.com/ameliatodd2002/Harvard_Python_Foundations)
 
 Please check out my repositories and follow me for updates! 😄
 
